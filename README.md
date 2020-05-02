@@ -27,6 +27,10 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 
 ## Screenshots
-
+<img src="project-screenshot/1st.PNG" width="25%">
+<img src="project-screenshot/2.cnt-table.PNG" width="25%">
+<img src="project-screenshot/3.insert-data.PNG" width="25%">
+<img src="project-screenshot/4.update-data.PNG" width="25%">
+<img src="project-screenshot/5.view-single-data.PNG" width="25%">
 
 
